@@ -1,0 +1,5 @@
+## Shiny to plot a MTurk campaign
+
+Screenshot:
+
+<img src="screenshot.png" width="500">
